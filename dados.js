@@ -105,5 +105,10 @@ let dados = [
             genero: "Fantasia",
             tags: "magia mistério aventura"
         },
+        {
+            titulo: "Através da Minha Janela",
+            genero: "Romance",
+            tags: "magia mistério aventura"
+        },
     ]
     
